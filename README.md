@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 
-<samp>I'm Abhishek Karki:man: from India:india:, currently doing masters in computer science:computer: at Technical University of Munich:mortar_board: in Germany:de: , I am passionate for solving problems with technology and creating different solutions.</samp><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="14">
+<samp>I'm Abhishek Karki from India:india:, currently doing masters in computer science:computer: at Technical University of Munich:mortar_board: Germany:de: , I am passionate for solving problems with technology and creating different solutions.</samp><img 
 
 <samp>Life is a journey:walking: of experiences and I am enjoying this journey.</samp> 
 
