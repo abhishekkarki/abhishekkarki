@@ -5,7 +5,6 @@
 
 <samp>Life is a journey:walking: of experiences and I am enjoying this journey.</samp> 
 
-- 👨‍👨‍👦‍👦 <samp>Family is most important part of my life.</samp>
 - 🛫 <samp>I like to meet new people, listen to their experiences and see their cultures.</samp>
 - 📑 <samp>More information about me.[__here__](https://abhishekkarki.github.io)</samp>
 
