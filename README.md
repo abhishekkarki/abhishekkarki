@@ -1,11 +1,6 @@
 ### Hello there 👋
+<samp>Welcome to my github account </samp>
 
-
-<samp>I'm Abhishek Karki from India:india:, currently doing masters in computer science:computer: at Technical University of Munich:mortar_board: Germany:de: , I am passionate for solving problems with technology and creating different solutions.</samp><img 
-
-<samp>Life is a journey:walking: of experiences and I am enjoying this journey.</samp> 
-
-- 🛫 <samp>I like to meet new people, listen to their experiences and see their cultures.</samp>
-- 📑 <samp>More information about me.[__here__](https://abhishekkarki.github.io)</samp>
+<samp>Checkout my [__page__](https://abhishekkarki.github.io) where I post about my projects, blogs and other stuff.</samp>
 
 ---
